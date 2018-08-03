@@ -1,4 +1,4 @@
-package com.chiachen.kotlinmvp.ui
+package com.chiachen.kotlinmvp.ui.main
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity

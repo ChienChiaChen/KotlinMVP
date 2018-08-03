@@ -22,4 +22,6 @@
 
     <style name="AppTheme.NoActionBar" parent="AppTheme.Base.NoActionBar"/>
 
+    <style name="ThemeOverlay.AppTheme.ActionBar.ActionMode.Inverse" parent="ThemeOverlay.AppCompat"/>
+
 </resources>
