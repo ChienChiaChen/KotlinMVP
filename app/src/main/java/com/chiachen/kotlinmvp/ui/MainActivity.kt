@@ -1,7 +1,8 @@
-package com.chiachen.kotlinmvp
+package com.chiachen.kotlinmvp.ui
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.chiachen.kotlinmvp.R
 
 class MainActivity : AppCompatActivity() {
 

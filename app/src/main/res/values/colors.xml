@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--THEME-->
+    <color name="background">@android:color/white</color>
+    <color name="toolbar_color">@color/colorPrimaryDark</color>
+    <color name="toolbar_color_inverse">@android:color/white</color>
+
+
 </resources>
