@@ -11,5 +11,5 @@ import retrofit2.http.GET
 interface SourceService {
 
     @GET("sources")
-    fun getSources(): Call<SourceResponse>
+    fun getSources() : Call<SourceResponse>
 }

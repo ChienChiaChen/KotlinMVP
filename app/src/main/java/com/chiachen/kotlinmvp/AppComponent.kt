@@ -1,7 +1,7 @@
 package com.chiachen.kotlinmvp
 
 import com.application.library.kotlin.NetworkModule
-import com.chiachen.kotlinmvp.data.source.DataModule
+import com.chiachen.kotlinmvp.data.DataModule
 import dagger.Component
 import javax.inject.Singleton
 
